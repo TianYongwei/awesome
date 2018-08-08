@@ -9,5 +9,5 @@ Meta Awesome
 
 Github Awesome
 
-- [A list of cool features of Git and GitHub.--https://github.com/tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+- [https://github.com/tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [https://github.com/fffaraz/awesome-github](https://github.com/fffaraz/awesome-github)
