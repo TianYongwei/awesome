@@ -1,6 +1,6 @@
 # Awesome repos
 
-> The awesome of github awesomes.
+> The awesome of awesomes.
 
 Meta Awesome
 
