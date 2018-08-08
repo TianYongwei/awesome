@@ -1,6 +1,6 @@
 # Awesome of Awesomes
 
-> The awesome of awesomes.
+> The root awesome.
 
 Meta Awesome
 
