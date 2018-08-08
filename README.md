@@ -1,4 +1,4 @@
-# Awesome repos
+# Awesome of Awesomes
 
 > The awesome of awesomes.
 
